@@ -22,13 +22,14 @@ The crappy `nodes.interrupt_processing()` method to cancel a generation process 
 <br><br><br>
 
 ## <div align="center">🚨 The Problem We Solve 🚨</div>
+<br>
 
 Let's be honest: ComfyUI's `nodes.interrupt_processing()` has been disappointing users for way too long. When your VRAM floods and the system becomes unresponsive, that cute little cancel button just... sits there. Mocking you. While your system slowly dies.
 
 For a framework that's used by thousands of creators daily, having a reliable way to stop runaway processes should be **priority #1 for user convenience**. But here we are, still dealing with unresponsive cancel buttons in 2025. 🤷‍♂️
 
 **VRAM Guardian fixes this.** For real this time.
-<br><br>
+<br><br><br>
 
 ## <div align="center">✨ Features ✨</div>
 <br>
@@ -56,7 +57,7 @@ For a framework that's used by thousands of creators daily, having a reliable wa
 - 500ms monitoring frequency for responsive termination
 - Hardware-specific memory management
 - Slider for custom adjustment 
-<br><br>
+<br><br><br>
 
 ## <div align="center">🚀 Quick Start 🚀</div>
 <br>
@@ -85,7 +86,7 @@ After installation, you'll see the **VRAM Guardian overlay** in your ComfyUI int
 - **Orange warning**: High VRAM usage (>75%)
 - **Red alert**: Critical VRAM levels (>90%)
 - **EMERGENCY STOP**: Multiple termination methods available
-<br><br>
+<br><br><br>
 
 ## <div align="center">📋 Usage 📋</div>
 <br>
@@ -116,7 +117,7 @@ Access settings via the gear icon:
 - **Monitoring Frequency**: Balance responsiveness vs performance
 - **Termination Method**: Choose your preferred emergency response
 - **UI Position**: Drag the overlay to your preferred location
-<br><br>
+<br><br><br>
 
 ## <div align="center">🛠️ Technical Implementation 🛠️</div>
 <br>
@@ -142,7 +143,7 @@ VRAM Guardian uses a **multi-layered defense approach**:
 - **CPU usage**: <0.1% (monitoring thread)
 - **Latency**: 500ms detection + immediate response
 - **Compatibility**: Works with all ComfyUI workflows
-<br><br>
+<br><br><br>
 
 ## <div align="center">📊 Effectiveness Scores 📊</div>
 <br>
@@ -155,7 +156,7 @@ Based on comprehensive testing across 10+ research documents:
 | Signal Interruption | 7.8/10 | <1s | Unix/Windows |
 | CUDA Reset | 8.1/10 | 2-5s | NVIDIA |
 | GPU Hardware Reset | 8.55/10 | 5-10s | NVIDIA + Admin |
-<br><br>
+<br><br><br>
 
 ## <div align="center">🤝 Contributing 🤝</div>
 <br>
@@ -172,16 +173,21 @@ Found a bug? Have an idea? Want to make VRAM monitoring even better?
 ## <div align="center">🙏 Acknowledgments 🙏</div>
 <br>
 
-- **GitHub Copilot**: For keeping me company and my mood up at the same time
--  **ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
-- **Perplexity**: For the extremely extensive research into various VRAM stuff
--  **NVIDIA**: For comprehensive CUDA and driver APIs
-- **Research Community**: For documenting VRAM management best practices
-<br><br><br>
+**👀✨GitHub Copilot**: For keeping me company and my mood up at the same time
+<br>
+**🤖 Perplexity**: For the extremely extensive research into various VRAM stuff
+<br>
+**🌈 ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
+<br>
+**💚 NVIDIA**: For comprehensive CUDA and driver APIs
+<br>
+**💯Research Community**: For documenting VRAM management best practices
+<br>
+
+<br><br><br><br><br>
 <div align="center">
 
 ## ⭐ Support ⭐
-  
 <br>
 
 **If VRAM Guardian saved your workflow (and sanity), consider:**
@@ -200,15 +206,17 @@ Found a bug? Have an idea? Want to make VRAM monitoring even better?
 <br>
 
 ❣️ [**Buy** me some drugs](buymeacoffee.com/crmbz) ❣️
-
----
 </div>
-
 <br><br><br>
+
+
+<div align="center">
 **Made with ❤️ for the ComfyUI community**
+
 <br>
 
 *Because reliable VRAM management shouldn't be rocket science.*
 
 [Report Bug](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/issues) • [Request Feature](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/issues) • [Documentation](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/wiki)
 
+</div>
