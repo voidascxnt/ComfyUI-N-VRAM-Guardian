@@ -156,7 +156,6 @@ pip install -r requirements.txt
 
 ---
 > ## <div align="center">🛠️ Technical Implementation 🛠️</div>
-<br>
 
 > ### Architecture
 
