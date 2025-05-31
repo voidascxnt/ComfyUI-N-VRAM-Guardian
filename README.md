@@ -1,10 +1,10 @@
 <br>
 
- **<div align="center">💎 Banner Image Placeholder 💎</div>**
+ **<div align="center">💎 Banner Image Placeholder 💎**
 
 <br><br>
 # ComfyUI NVIDIA VRAM Guardian 🛡️
-
+</div>
 
 <br>
 > **Finally, a VRAM monitoring solution that actually works when you need it most!**
@@ -16,7 +16,8 @@ The crappy `nodes.interrupt_processing()` method to cancel a generation process 
 ## **<div align="center">🦖 | Currently only working, and mostly focused - on NVIDIA cards | 🦖</div>**
 
 <br><br><br>
-## 🚨 The Problem We Solve
+
+## <div align="center">🚨 The Problem We Solve</div>
 
 Let's be honest: ComfyUI's `nodes.interrupt_processing()` has been disappointing users for way too long. When your VRAM floods and the system becomes unresponsive, that cute little cancel button just... sits there. Mocking you. While your system slowly dies.
 
@@ -24,7 +25,7 @@ For a framework that's used by thousands of creators daily, having a reliable wa
 
 **VRAM Guardian fixes this.** For real this time.
 
-## ✨ Features
+## <div align="center">✨ Features
 
 ### 🎯 **Multi-Tier Emergency Termination**
 - **Memory Guard Thread**: Proactive monitoring with nuclear `os._exit()` termination (9.0/10 effectiveness)
@@ -50,7 +51,7 @@ For a framework that's used by thousands of creators daily, having a reliable wa
 - Temperature-based throttling at 85°C
 - Hardware-specific memory management
 
-## 🚀 Quick Start
+## <div align="center">🚀 Quick Start
 
 ### Installation
 
@@ -77,7 +78,7 @@ After installation, you'll see the **VRAM Guardian overlay** in your ComfyUI int
 - **Red alert**: Critical VRAM levels (>90%)
 - **EMERGENCY STOP**: Multiple termination methods available
 
-## 📋 Usage
+## <div align="center">📋 Usage
 
 ### Basic Operation
 
@@ -106,7 +107,7 @@ Access settings via the gear icon:
 - **Termination Method**: Choose your preferred emergency response
 - **UI Position**: Drag the overlay to your preferred location
 
-## 🛠️ Technical Implementation
+## <div align="center">🛠️ Technical Implementation
 
 ### Architecture
 
@@ -130,7 +131,7 @@ VRAM Guardian uses a **multi-layered defense approach**:
 - **Latency**: 500ms detection + immediate response
 - **Compatibility**: Works with all ComfyUI workflows
 
-## 📊 Effectiveness Scores
+## <div align="center">📊 Effectiveness Scores
 
 Based on comprehensive testing across 10+ research documents:
 
@@ -141,7 +142,7 @@ Based on comprehensive testing across 10+ research documents:
 | CUDA Reset | 8.1/10 | 2-5s | NVIDIA |
 | GPU Hardware Reset | 8.55/10 | 5-10s | NVIDIA + Admin |
 
-## 🤝 Contributing
+## <div align="center">🤝 Contributing
 
 Found a bug? Have an idea? Want to make VRAM monitoring even better?
 
@@ -151,11 +152,7 @@ Found a bug? Have an idea? Want to make VRAM monitoring even better?
 4. **Push** to the branch (`git push origin amazing-feature`)
 5. **Open** a Pull Request
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+## <div align="center">🙏 Acknowledgments
 
 - **ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
 - **NVIDIA**: For comprehensive CUDA and driver APIs
@@ -163,7 +160,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Perplexity**: For the extremely extensive research into various VRAM stuff
 - **Research Community**: For documenting VRAM management best practices
 
-## ⭐ Support
+## <div align="center">⭐ Support
 
 If VRAM Guardian saved your workflow (and sanity), consider:
 
@@ -180,6 +177,6 @@ If VRAM Guardian saved your workflow (and sanity), consider:
 
 *Because reliable VRAM management shouldn't be rocket science.*
 
-[Report Bug](https://github.com/YOUR_USERNAME/ComfyUI-VRAM-Guardian/issues) • [Request Feature](https://github.com/YOUR_USERNAME/ComfyUI-VRAM-Guardian/issues) • [Documentation](https://github.com/YOUR_USERNAME/ComfyUI-VRAM-Guardian/wiki)
+[Report Bug](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/issues) • [Request Feature](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/issues) • [Documentation](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/wiki)
 
 </div>
