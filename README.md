@@ -17,7 +17,7 @@
 
 </div>
 <br>
-<br>
+<div align="center">🌚░░░░░🌒▒▒▒▒🌓▓▓▓▓🌔████🌕████🌖▓▓▓▓🌗▒▒▒▒🌘░░░░░🌑</div>
 <br>
 
 ---
@@ -146,14 +146,14 @@ pip install -r requirements.txt
 > - **Monitoring Frequency**: Balance responsiveness vs performance
 > - **Termination Method**: Choose your preferred emergency response
 > - **UI Position**: Drag the overlay to your preferred location
- 
+
+---
 <br>
 <div align="center">🌚░░░░░🌒▒▒▒▒🌓▓▓▓▓🌔████🌕████🌖▓▓▓▓🌗▒▒▒▒🌘░░░░░🌑</div>
 <br>
 
 ---
 > ## <div align="center">🛠️ Technical Implementation 🛠️</div>
----
 <br>
 
 > ### Architecture
@@ -237,8 +237,10 @@ pip install -r requirements.txt
 <div align="center">🌑░░░░░🌒▒▒▒▒🌓▓▓▓▓🌔████🌕████🌖▓▓▓▓🌗▒▒▒▒🌘░░░░░🌚</div>
 <br>
 
+
+  
+---
 <div align="center">
- ---
 > ## ⭐ Support ⭐
 <br>
 
@@ -266,7 +268,7 @@ pip install -r requirements.txt
 <br>
 
 
-
+---
 > <div align="center">
 > **Made with ❤️ for the ComfyUI community**
 
