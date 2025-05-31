@@ -1,5 +1,7 @@
- ***<div align="center">💎 Banner Image Placeholder 💎***
-
+<div align="center">
+  
+💎 ***Banner Image Placeholder*** 💎
+  
 <br><br>
 
 # 🛡️ ComfyUI NVIDIA VRAM Guardian 🛡️
@@ -162,37 +164,48 @@ Found a bug? Have an idea? Want to make VRAM monitoring even better?
 3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
 4. **Push** to the branch (`git push origin amazing-feature`)
 5. **Open** a Pull Request
-<br><br>
+<br><br><br>
 
 ## <div align="center">🙏 Acknowledgments 🙏</div>
 <br>
 
 - **GitHub Copilot**: For keeping me company and my mood up at the same time
-- - **ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
+-  **ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
 - **Perplexity**: For the extremely extensive research into various VRAM stuff
 -  **NVIDIA**: For comprehensive CUDA and driver APIs
 - **Research Community**: For documenting VRAM management best practices
-<br><br>
-
-## <div align="center">⭐ Support ⭐</div>
-<br>
-
-If VRAM Guardian saved your workflow (and sanity), consider:
-
-- ⭐ **Starring** this repository
-- 🐛 **Reporting** issues you encounter
-- 💡 **Sharing** feature suggestions
-- 📢 **Spreading** the word to fellow creators
-- ❣️ [**Buy** me some drugs](buymeacoffee.com/crmbz)
-
----
-
+<br><br><br>
 <div align="center">
 
+## ⭐ Support ⭐
+  
+<br>
+
+**If VRAM Guardian saved your workflow (and sanity), consider:**
+<br><br>
+
+⭐ **Starring** this repository ⭐
+<br>
+
+🐛 **Reporting** issues you encounter 🐛
+<br>
+
+💡 **Sharing** feature suggestions 💡
+<br>
+
+📢 **Spreading** the word to fellow creators 📢
+<br>
+
+❣️ [**Buy** me some drugs](buymeacoffee.com/crmbz) ❣️
+
+---
+</div>
+
+<br><br><br>
 **Made with ❤️ for the ComfyUI community**
+<br>
 
 *Because reliable VRAM management shouldn't be rocket science.*
 
 [Report Bug](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/issues) • [Request Feature](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/issues) • [Documentation](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/wiki)
 
-</div>
