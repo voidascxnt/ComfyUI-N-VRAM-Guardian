@@ -189,14 +189,13 @@ pip install -r requirements.txt
 > ## <div align="center">📊 Effectiveness Scores 📊</div>
 <br>
 
-> Based on comprehensive testing across 10+ research documents:
 
-> | Method | Effectiveness | Response Time | Platform Support |
-> |--------|---------------|---------------|------------------|
-> | Memory Guard Thread | 9.0/10 | 500ms | All |
-> | Signal Interruption | 7.8/10 | <1s | Unix/Windows |
-> | CUDA Reset | 8.1/10 | 2-5s | NVIDIA |
-> | GPU Hardware Reset | 8.55/10 | 5-10s | NVIDIA + Admin |
+
+
+
+![23  vram_termination_chart](https://github.com/user-attachments/assets/ebeae62c-d9cb-47df-b89c-876600241cd5)
+
+> Based on comprehensive testing across 10+ research documents
  ---
  
 <br>
