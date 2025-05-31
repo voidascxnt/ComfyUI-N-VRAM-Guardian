@@ -183,7 +183,7 @@ If VRAM Guardian saved your workflow (and sanity), consider:
 - 🐛 **Reporting** issues you encounter
 - 💡 **Sharing** feature suggestions
 - 📢 **Spreading** the word to fellow creators
-- [❣️ **Buy** me some drugs 💕](buymeacoffee.com/crmbz)
+- ❣️ [**Buy** me some drugs](buymeacoffee.com/crmbz)
 
 ---
 
