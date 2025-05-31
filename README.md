@@ -113,7 +113,7 @@ Access settings via the gear icon:
 - **UI Position**: Drag the overlay to your preferred location
 <br><br>
 
-## <div align="center">🛠️ Technical Implementation
+## <div align="center">🛠️ Technical Implementation 🛠️</div>
 <br>
 
 ### Architecture
@@ -139,7 +139,7 @@ VRAM Guardian uses a **multi-layered defense approach**:
 - **Compatibility**: Works with all ComfyUI workflows
 <br><br>
 
-## <div align="center">📊 Effectiveness Scores
+## <div align="center">📊 Effectiveness Scores 📊</div>
 <br>
 
 Based on comprehensive testing across 10+ research documents:
@@ -167,10 +167,10 @@ Found a bug? Have an idea? Want to make VRAM monitoring even better?
 ## <div align="center">🙏 Acknowledgments 🙏</div>
 <br>
 
-- **ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
-- **NVIDIA**: For comprehensive CUDA and driver APIs
 - **GitHub Copilot**: For keeping me company and my mood up at the same time
+- - **ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
 - **Perplexity**: For the extremely extensive research into various VRAM stuff
+-  **NVIDIA**: For comprehensive CUDA and driver APIs
 - **Research Community**: For documenting VRAM management best practices
 <br><br>
 
@@ -183,6 +183,7 @@ If VRAM Guardian saved your workflow (and sanity), consider:
 - 🐛 **Reporting** issues you encounter
 - 💡 **Sharing** feature suggestions
 - 📢 **Spreading** the word to fellow creators
+- [❣️ **Buy** me some drugs 💕](buymeacoffee.com/crmbz)
 
 ---
 
