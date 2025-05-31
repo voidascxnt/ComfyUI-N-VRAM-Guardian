@@ -1,12 +1,15 @@
 <div align="center">
   
 💎 ***Banner Image Placeholder*** 💎
-  
+
 <br><br>
 
-# 🛡️ ComfyUI NVIDIA VRAM Guardian 🛡️
-</div>
+<h1> 🛡️ ComfyUI NVIDIA VRAM Guardian 🛡️
+<br>
+  
+<h2> 🫷 ***RELEASED SOON*** 🫸</h2></h1>
 
+</div>
 <br>
 > **Finally, a VRAM monitoring solution that actually works when you need it most!**
 <br>
