@@ -7,7 +7,7 @@
 <br>  
 
 --- 
-> <h1> 🛡️ ComfyUI NVIDIA VRAM Guardian 🛡️ #
+> <h1> 🛡️ ComfyUI NVIDIA VRAM Guardian 🛡️
 
 > <h3> **Finally, a VRAM monitoring solution that *actually* works when you need it most!** ##
   
