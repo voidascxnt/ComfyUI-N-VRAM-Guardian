@@ -6,7 +6,6 @@
 
 <br>  
 
-
 --- 
 > <h1> 🛡️ ComfyUI NVIDIA VRAM Guardian 🛡️ #
 
@@ -22,7 +21,10 @@
 <br>
 
 ---
-> The crappy `nodes.interrupt_processing()` method to cancel a generation process once the VRAM is overflowing sucked ass with a **2.5 / 10 > score**, so I fixed it.
+> ## **<div align="center">🦖 Currently probably on working on NVIDIA cards, won't test AMD anytime soon 🦖</div>**
+
+> The crappy `nodes.interrupt_processing()` method is seemingly incapable to cancel a generation process, once the VRAM is overflowing, which gets clear with an effectiveness **score of 2.5 / 10**.<br>
+> Since it always kept pissing me off and it never changed, I decided to do it myself as i usually have to - thanks to people.
  
 > **ComfyUI VRAM Guardian** is a comprehensive monitoring and emergency termination system for ComfyUI that provides
 > **real-time VRAM monitoring** and **multiple failsafe mechanisms** to prevent system crashes from VRAM overflow. 
@@ -30,7 +32,6 @@
 > Guardian operates independently and guarantees termination capability even during
 > complete system unresponsiveness.
  
-> ## **<div align="center">🦖 | Currently only working, and mostly focused - on NVIDIA cards | 🦖</div>**
  ---
  
 <br>
