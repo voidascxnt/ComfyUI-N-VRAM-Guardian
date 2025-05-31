@@ -242,6 +242,7 @@ pip install -r requirements.txt
   
 ---
 <div align="center">
+  
 > ## ⭐ Support ⭐
 <br>
 
@@ -271,10 +272,9 @@ pip install -r requirements.txt
 
 ---
 > <div align="center">
-> **Made with ❤️ for the ComfyUI community**
-
 > <br>
 
+> **Made with ❤️ for the ComfyUI community**
 > *Because reliable VRAM management shouldn't be rocket science.*
 
 > [Report Bug](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/issues) • [Request Feature](https://github.com/voidascxnt/> ComfyUI-VRAM-Guardian/issues) • [Documentation](https://github.com/voidascxnt/ComfyUI-VRAM-Guardian/wiki)
