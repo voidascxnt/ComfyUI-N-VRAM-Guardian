@@ -1,6 +1,6 @@
 # ComfyUI VRAM Guardian 🛡️
 
-![ComfyUI VRAM Guardian Banner]()
+
 
 > **Finally, a VRAM monitoring solution that actually works when you need it most!**
 
