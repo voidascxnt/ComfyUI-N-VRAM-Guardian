@@ -1,0 +1,12 @@
+# Core dependencies for ComfyUI VRAM Guardian
+# Note: torch is already included with ComfyUI, but listed for completeness
+
+# NVIDIA GPU monitoring and management
+pynvml>=11.4.1
+
+# System process monitoring
+psutil>=5.8.0
+
+# Additional utilities (optional but recommended)
+# GPUtil>=1.4.0  # Alternative GPU monitoring (uncomment if preferred)
+# nvidia-ml-py3>=7.352.0  # Alternative to pynvml (uncomment if preferred)

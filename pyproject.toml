@@ -1,0 +1,54 @@
+[project]
+name = "comfyui-vram-guardian"
+description = "A comprehensive VRAM monitoring and emergency termination system for ComfyUI that actually works when you need it most."
+version = "1.0.0"
+license = { text = "MIT" }
+
+authors = [
+    { name = "VRAM Guardian Contributors" },
+]
+
+readme = "README.md"
+keywords = ["comfyui", "vram", "monitoring", "gpu", "emergency", "termination"]
+
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: JavaScript",
+    "Topic :: Multimedia :: Graphics",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: System :: Monitoring",
+    "Topic :: System :: Systems Administration",
+]
+
+requires-python = ">=3.8"
+
+dependencies = [
+    "torch",
+    "pynvml",
+    "psutil",
+]
+
+[project.urls]
+Homepage = "https://github.com/YOUR_USERNAME/ComfyUI-VRAM-Guardian"
+Repository = "https://github.com/YOUR_USERNAME/ComfyUI-VRAM-Guardian"
+"Bug Reports" = "https://github.com/YOUR_USERNAME/ComfyUI-VRAM-Guardian/issues"
+"Feature Requests" = "https://github.com/YOUR_USERNAME/ComfyUI-VRAM-Guardian/issues"
+
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["comfyui_vram_guardian"]
+
+[tool.setuptools.package-data]
+"*" = ["web/*"]
