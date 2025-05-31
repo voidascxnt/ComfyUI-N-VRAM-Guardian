@@ -1,9 +1,8 @@
-<br>
-
- **<div align="center">💎 Banner Image Placeholder 💎**
+ ***<div align="center">💎 Banner Image Placeholder 💎***
 
 <br><br>
-# ComfyUI NVIDIA VRAM Guardian 🛡️
+
+# 🛡️ ComfyUI NVIDIA VRAM Guardian 🛡️
 </div>
 
 <br>
@@ -17,16 +16,17 @@ The crappy `nodes.interrupt_processing()` method to cancel a generation process 
 
 <br><br><br>
 
-## <div align="center">🚨 The Problem We Solve</div>
+## <div align="center">🚨 The Problem We Solve 🚨</div>
 
 Let's be honest: ComfyUI's `nodes.interrupt_processing()` has been disappointing users for way too long. When your VRAM floods and the system becomes unresponsive, that cute little cancel button just... sits there. Mocking you. While your system slowly dies.
 
 For a framework that's used by thousands of creators daily, having a reliable way to stop runaway processes should be **priority #1 for user convenience**. But here we are, still dealing with unresponsive cancel buttons in 2025. 🤷‍♂️
 
 **VRAM Guardian fixes this.** For real this time.
+<br><br>
 
-## <div align="center">✨ Features
-
+## <div align="center">✨ Features ✨</div>
+<br>
 ### 🎯 **Multi-Tier Emergency Termination**
 - **Memory Guard Thread**: Proactive monitoring with nuclear `os._exit()` termination (9.0/10 effectiveness)
 - **Signal-Based Interruption**: OS-level SIGINT/SIGTERM handlers with CUDA cleanup
@@ -45,14 +45,15 @@ For a framework that's used by thousands of creators daily, having a reliable wa
 - No interference with normal workflow operations
 - Works with existing ComfyUI installations
 
-### ⚡ **RTX 4080 Optimized**
-- Pre-configured 12GB threshold (4GB safety buffer)
+### ⚡ **RTX Optimized**
+- Auto-detect GB threshold (3GB safety buffer)
 - 500ms monitoring frequency for responsive termination
-- Temperature-based throttling at 85°C
 - Hardware-specific memory management
+- Slider for custom adjustment 
+<br><br>
 
-## <div align="center">🚀 Quick Start
-
+## <div align="center">🚀 Quick Start 🚀</div>
+<br>
 ### Installation
 
 1. **Clone into ComfyUI custom_nodes directory:**
@@ -77,9 +78,10 @@ After installation, you'll see the **VRAM Guardian overlay** in your ComfyUI int
 - **Orange warning**: High VRAM usage (>75%)
 - **Red alert**: Critical VRAM levels (>90%)
 - **EMERGENCY STOP**: Multiple termination methods available
+<br><br>
 
-## <div align="center">📋 Usage
-
+## <div align="center">📋 Usage 📋</div>
+<br>
 ### Basic Operation
 
 VRAM Guardian runs automatically in the background, monitoring your GPU memory usage every 500ms. The overlay shows:
@@ -106,9 +108,10 @@ Access settings via the gear icon:
 - **Monitoring Frequency**: Balance responsiveness vs performance
 - **Termination Method**: Choose your preferred emergency response
 - **UI Position**: Drag the overlay to your preferred location
+<br><br>
 
 ## <div align="center">🛠️ Technical Implementation
-
+<br>
 ### Architecture
 
 VRAM Guardian uses a **multi-layered defense approach**:
@@ -130,9 +133,10 @@ VRAM Guardian uses a **multi-layered defense approach**:
 - **CPU usage**: <0.1% (monitoring thread)
 - **Latency**: 500ms detection + immediate response
 - **Compatibility**: Works with all ComfyUI workflows
+<br><br>
 
 ## <div align="center">📊 Effectiveness Scores
-
+<br>
 Based on comprehensive testing across 10+ research documents:
 
 | Method | Effectiveness | Response Time | Platform Support |
@@ -141,9 +145,10 @@ Based on comprehensive testing across 10+ research documents:
 | Signal Interruption | 7.8/10 | <1s | Unix/Windows |
 | CUDA Reset | 8.1/10 | 2-5s | NVIDIA |
 | GPU Hardware Reset | 8.55/10 | 5-10s | NVIDIA + Admin |
+<br><br>
 
-## <div align="center">🤝 Contributing
-
+## <div align="center">🤝 Contributing 🤝</div>
+<br>
 Found a bug? Have an idea? Want to make VRAM monitoring even better?
 
 1. **Fork** the repository
@@ -151,17 +156,19 @@ Found a bug? Have an idea? Want to make VRAM monitoring even better?
 3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
 4. **Push** to the branch (`git push origin amazing-feature`)
 5. **Open** a Pull Request
+<br><br>
 
-## <div align="center">🙏 Acknowledgments
-
+## <div align="center">🙏 Acknowledgments 🙏</div>
+<br>
 - **ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
 - **NVIDIA**: For comprehensive CUDA and driver APIs
 - **GitHub Copilot**: For keeping me company and my mood up at the same time
 - **Perplexity**: For the extremely extensive research into various VRAM stuff
 - **Research Community**: For documenting VRAM management best practices
+<br><br>
 
-## <div align="center">⭐ Support
-
+## <div align="center">⭐ Support ⭐</div>
+<br>
 If VRAM Guardian saved your workflow (and sanity), consider:
 
 - ⭐ **Starring** this repository
