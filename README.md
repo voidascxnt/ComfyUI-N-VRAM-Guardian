@@ -27,6 +27,7 @@ For a framework that's used by thousands of creators daily, having a reliable wa
 
 ## <div align="center">✨ Features ✨</div>
 <br>
+
 ### 🎯 **Multi-Tier Emergency Termination**
 - **Memory Guard Thread**: Proactive monitoring with nuclear `os._exit()` termination (9.0/10 effectiveness)
 - **Signal-Based Interruption**: OS-level SIGINT/SIGTERM handlers with CUDA cleanup
@@ -54,6 +55,7 @@ For a framework that's used by thousands of creators daily, having a reliable wa
 
 ## <div align="center">🚀 Quick Start 🚀</div>
 <br>
+
 ### Installation
 
 1. **Clone into ComfyUI custom_nodes directory:**
@@ -82,6 +84,7 @@ After installation, you'll see the **VRAM Guardian overlay** in your ComfyUI int
 
 ## <div align="center">📋 Usage 📋</div>
 <br>
+
 ### Basic Operation
 
 VRAM Guardian runs automatically in the background, monitoring your GPU memory usage every 500ms. The overlay shows:
@@ -112,6 +115,7 @@ Access settings via the gear icon:
 
 ## <div align="center">🛠️ Technical Implementation
 <br>
+
 ### Architecture
 
 VRAM Guardian uses a **multi-layered defense approach**:
@@ -137,6 +141,7 @@ VRAM Guardian uses a **multi-layered defense approach**:
 
 ## <div align="center">📊 Effectiveness Scores
 <br>
+
 Based on comprehensive testing across 10+ research documents:
 
 | Method | Effectiveness | Response Time | Platform Support |
@@ -149,6 +154,7 @@ Based on comprehensive testing across 10+ research documents:
 
 ## <div align="center">🤝 Contributing 🤝</div>
 <br>
+
 Found a bug? Have an idea? Want to make VRAM monitoring even better?
 
 1. **Fork** the repository
@@ -160,6 +166,7 @@ Found a bug? Have an idea? Want to make VRAM monitoring even better?
 
 ## <div align="center">🙏 Acknowledgments 🙏</div>
 <br>
+
 - **ComfyUI Team**: For creating an amazing framework (even if the cancel button needs work 😉)
 - **NVIDIA**: For comprehensive CUDA and driver APIs
 - **GitHub Copilot**: For keeping me company and my mood up at the same time
@@ -169,6 +176,7 @@ Found a bug? Have an idea? Want to make VRAM monitoring even better?
 
 ## <div align="center">⭐ Support ⭐</div>
 <br>
+
 If VRAM Guardian saved your workflow (and sanity), consider:
 
 - ⭐ **Starring** this repository
