@@ -57,7 +57,7 @@ For a framework that's used by thousands of creators daily, having a reliable wa
 1. **Clone into ComfyUI custom_nodes directory:**
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_USERNAME/ComfyUI-VRAM-Guardian.git
+git clone https://github.com/voidascxnt/ComfyUI-VRAM-Guardian.git
 ```
 
 2. **Install dependencies:**
