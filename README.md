@@ -1,6 +1,6 @@
 # ComfyUI VRAM Guardian 🛡️
 
-![ComfyUI VRAM Guardian Banner](https://pplx-res.cloudinary.com/image/upload/v1748668282/gpt4o_images/hlsyql8nfxfmbssjohhs.png)
+![ComfyUI VRAM Guardian Banner]()
 
 > **Finally, a VRAM monitoring solution that actually works when you need it most!**
 
